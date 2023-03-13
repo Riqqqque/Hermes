@@ -16,3 +16,5 @@ Built on QUILT: Compared to Forge and Fabric, Quilt is more lightweight and fast
 Support for MacOS: This modpacks fixes common bugs for MAC Apple Products so inputs are not bugged and the game is now playable.
 
 Join our discord to add suggestions and report bugs or even for general support!
+
+https://modrinth.com/modpack/hermes
